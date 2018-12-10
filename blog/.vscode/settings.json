@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\pushk\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+    "python.pythonPath": "D:\\practicedjango\\mysite\\practice\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "D:\\practicedjango\\mysite\\practice\\Lib\\site-packages"
+    ],
+    "git.ignoreLimitWarning": true
 }

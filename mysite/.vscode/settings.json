@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\practicedjango\\mysite\\practice\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "D:\\practicedjango\\mysite\\practice\\Lib\\site-packages"
+    ]
+}
